@@ -1,0 +1,40 @@
+  {
+  "project_info": {
+    "project_number": "148226717583",
+    "firebase_url": "https://handwritten-text-recogni-313c8.firebaseio.com",
+    "project_id": "handwritten-text-recogni-313c8",
+    "storage_bucket": "handwritten-text-recogni-313c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148226717583:android:99a186df70172bbe4b7dfa",
+        "android_client_info": {
+          "package_name": "com.example.textrecognitionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148226717583-f4nn635urithkbi2s6d63scn6dovbrq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMzI536duSQ0roFP7uVicHtrqeFh3_5c0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148226717583-f4nn635urithkbi2s6d63scn6dovbrq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
